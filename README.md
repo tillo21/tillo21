@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tillo21
-- 👀 I’m interested in t-learning platform
+- 👀 I’m interested in e-learning platform
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me goal
